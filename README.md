@@ -61,7 +61,7 @@ This software is distributed using the [GNU General Public License, Version 3](.
 
 ***
 
-© 2022 Dustin Kempton, Berkay Aydin, Rafal Angryk, Temitop Adeyeha
+© 2022 Dustin Kempton, Berkay Aydin, Rafal Angryk, Temitope Adeyeha
 
 [Data Mining Lab](http://dmlab.cs.gsu.edu/)
 
